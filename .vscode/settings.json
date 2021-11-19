@@ -1,0 +1,23 @@
+{
+	"liveServer.settings.donotShowInfoMsg": true,
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "compressed",
+			"extensionName": ".min.css",
+			"savePath": "/dist/css"
+		}
+	],
+	"prettier.jsxSingleQuote": true,
+	"prettier.useTabs": true,
+	"editor.formatOnSave": true,
+	"prettier.tabWidth": 2,
+	"editor.tabSize": 2,
+	"terminal.integrated.automationShell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+	"terminal.integrated.rendererType": "dom",
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"explorer.confirmDelete": false,
+	"window.zoomLevel": 1
+}
